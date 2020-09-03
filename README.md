@@ -5,7 +5,7 @@
 
 ### Environment
 
-- [VS2019](https://visualstudio.microsoft.com/zh-hant/vs/)
+- [VS 2019](https://visualstudio.microsoft.com/zh-hant/vs/)
 - [DirectX 9.0 SDK](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 
 </br>
