@@ -20,7 +20,7 @@ Download and install the **DXSDK_Jun 10**.
 
 - **Step 2**
 
-In project, right click on the**project**, and select properties.
+In project, right click on the **project**, and select properties.
 
 </br>
 
